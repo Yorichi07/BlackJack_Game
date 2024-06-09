@@ -1,0 +1,51 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
+    sans-serif;
+  background-image: url("table.png");
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: goldenrod;
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+#message-el {
+  font-style: italic;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+button {
+  color: #016f32;
+  width: 200px;
+  background: goldenrod;
+  padding: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.play-again-button {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
