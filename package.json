@@ -1,0 +1,9 @@
+{
+  "name": "blackjack-game",
+  "version": "1.0.0",
+  "description": "Simple static Blackjack game",
+  "private": true,
+  "scripts": {
+    "start": "echo \"No build step. Static files only.\""
+  }
+}
